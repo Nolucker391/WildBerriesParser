@@ -1,0 +1,104 @@
+2025-06-13 18:43:26,706 - INFO - Бот wb_parser_nl запущен!
+2025-06-13 18:43:26,773 - INFO - Start polling
+2025-06-13 18:43:26,774 - INFO - Run polling for bot @nl_wb_parser_bot id=8070053309 - 'wb_parser_nl'
+2025-06-13 18:43:31,458 - INFO - [FSM] Переход в состояние: UserState:add_article_section
+2025-06-13 18:43:31,458 - INFO - [FSM] История: ['UserState:add_article_section']
+2025-06-13 18:43:31,757 - INFO - Пользователь выбрал раздел: Добавление артикула
+2025-06-13 18:43:31,970 - INFO - Update id=360321561 is handled. Duration 516 ms by bot id=8070053309
+2025-06-13 18:43:36,005 - INFO - [FSM] Переход в состояние: UserState:start_section
+2025-06-13 18:43:36,006 - INFO - [FSM] История: ['UserState:start_section']
+2025-06-13 18:43:36,006 - INFO - Нажата комманда /start
+2025-06-13 18:43:36,006 - INFO - Данные пользователя: ID: 687061691, Username: Nolucker, First Name: Pool
+2025-06-13 18:43:36,649 - INFO - Update id=360321562 is handled. Duration 641 ms by bot id=8070053309
+2025-06-13 18:43:37,710 - INFO - [FSM] Переход в состояние: UserState:add_article_section
+2025-06-13 18:43:37,710 - INFO - [FSM] История: ['UserState:start_section', 'UserState:add_article_section']
+2025-06-13 18:43:37,779 - INFO - Пользователь выбрал раздел: Добавление артикула
+2025-06-13 18:43:37,899 - INFO - Update id=360321563 is handled. Duration 187 ms by bot id=8070053309
+2025-06-13 18:43:39,968 - INFO - Пользователь ввел номер артикула: 101384365
+2025-06-13 18:43:40,182 - INFO - HTTP Request: GET https://card.wb.ru/cards/detail?appType=1&curr=rub&dest=-1257786&nm=101384365 "HTTP/1.1 200 OK"
+2025-06-13 18:43:40,277 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/250707327?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:40,314 - INFO - Update id=360321564 is handled. Duration 342 ms by bot id=8070053309
+2025-06-13 18:43:40,341 - INFO - HTTP Request: GET https://feedbacks2.wb.ru/feedbacks/v1/250707327?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:40,403 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/250707327?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:40,461 - INFO - HTTP Request: GET https://feedbacks2.wb.ru/feedbacks/v1/250707327?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:44,182 - INFO - [FSM] Переход в состояние: UserState:look_rewards_section
+2025-06-13 18:43:44,182 - INFO - [FSM] История: ['UserState:start_section', 'UserState:add_article_section', 'UserState:look_rewards_section']
+2025-06-13 18:43:44,182 - INFO - Пользователь выбрал раздел: Просмотр отзывов.
+2025-06-13 18:43:44,243 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/250707327?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:44,298 - INFO - HTTP Request: GET https://feedbacks2.wb.ru/feedbacks/v1/250707327?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:44,381 - INFO - Update id=360321565 is handled. Duration 203 ms by bot id=8070053309
+2025-06-13 18:43:45,693 - INFO - [FSM] Назад к состоянию: UserState:add_article_section
+2025-06-13 18:43:45,693 - INFO - [FSM] Переход в состояние: UserState:add_article_section
+2025-06-13 18:43:45,693 - INFO - [FSM] История: ['UserState:start_section', 'UserState:add_article_section']
+2025-06-13 18:43:45,761 - INFO - Пользователь выбрал раздел: Добавление артикула
+2025-06-13 18:43:45,847 - INFO - Update id=360321566 is handled. Duration 157 ms by bot id=8070053309
+2025-06-13 18:43:46,540 - INFO - [FSM] Назад к состоянию: UserState:start_section
+2025-06-13 18:43:46,611 - INFO - [FSM] Переход в состояние: UserState:start_section
+2025-06-13 18:43:46,611 - INFO - [FSM] История: ['UserState:start_section']
+2025-06-13 18:43:46,611 - INFO - Нажата комманда /start
+2025-06-13 18:43:46,612 - INFO - Данные пользователя: ID: 8070053309, Username: nl_wb_parser_bot, First Name: wb_parser_nl
+2025-06-13 18:43:47,105 - INFO - Update id=360321567 is handled. Duration 562 ms by bot id=8070053309
+2025-06-13 18:43:47,904 - INFO - [FSM] Переход в состояние: UserState:add_article_section
+2025-06-13 18:43:47,904 - INFO - [FSM] История: ['UserState:start_section', 'UserState:add_article_section']
+2025-06-13 18:43:47,978 - INFO - Пользователь выбрал раздел: Добавление артикула
+2025-06-13 18:43:48,063 - INFO - Update id=360321568 is handled. Duration 171 ms by bot id=8070053309
+2025-06-13 18:43:50,533 - INFO - Пользователь ввел номер артикула: 115167690
+2025-06-13 18:43:50,605 - INFO - HTTP Request: GET https://card.wb.ru/cards/detail?appType=1&curr=rub&dest=-1257786&nm=115167690 "HTTP/1.1 200 OK"
+2025-06-13 18:43:50,693 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/215429791?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:50,716 - INFO - Update id=360321569 is handled. Duration 171 ms by bot id=8070053309
+2025-06-13 18:43:50,814 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/215429791?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:52,267 - INFO - [FSM] Переход в состояние: UserState:look_rewards_section
+2025-06-13 18:43:52,267 - INFO - [FSM] История: ['UserState:start_section', 'UserState:add_article_section', 'UserState:look_rewards_section']
+2025-06-13 18:43:52,267 - INFO - Пользователь выбрал раздел: Просмотр отзывов.
+2025-06-13 18:43:52,344 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/215429791?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:52,506 - INFO - Update id=360321570 is handled. Duration 233 ms by bot id=8070053309
+2025-06-13 18:43:53,904 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/215429791?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:54,039 - INFO - Update id=360321571 is handled. Duration 219 ms by bot id=8070053309
+2025-06-13 18:43:54,855 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/215429791?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:54,984 - INFO - Update id=360321572 is handled. Duration 217 ms by bot id=8070053309
+2025-06-13 18:43:56,218 - INFO - HTTP Request: GET https://feedbacks1.wb.ru/feedbacks/v1/215429791?limit=100&page=1 "HTTP/1.1 200 OK"
+2025-06-13 18:43:56,420 - INFO - Update id=360321573 is handled. Duration 265 ms by bot id=8070053309
+2025-06-13 18:43:57,646 - INFO - [FSM] Назад к состоянию: UserState:add_article_section
+2025-06-13 18:43:57,646 - INFO - [FSM] Переход в состояние: UserState:add_article_section
+2025-06-13 18:43:57,647 - INFO - [FSM] История: ['UserState:start_section', 'UserState:add_article_section']
+2025-06-13 18:43:57,717 - INFO - Пользователь выбрал раздел: Добавление артикула
+2025-06-13 18:43:57,821 - INFO - Update id=360321574 is handled. Duration 171 ms by bot id=8070053309
+2025-06-13 18:43:58,596 - INFO - [FSM] Назад к состоянию: UserState:start_section
+2025-06-13 18:43:58,690 - INFO - [FSM] Переход в состояние: UserState:start_section
+2025-06-13 18:43:58,690 - INFO - [FSM] История: ['UserState:start_section']
+2025-06-13 18:43:58,690 - INFO - Нажата комманда /start
+2025-06-13 18:43:58,690 - INFO - Данные пользователя: ID: 8070053309, Username: nl_wb_parser_bot, First Name: wb_parser_nl
+2025-06-13 18:43:59,024 - INFO - Update id=360321575 is handled. Duration 421 ms by bot id=8070053309
+2025-06-13 18:44:00,246 - INFO - [FSM] Переход в состояние: UserState:stop_monitoring_section
+2025-06-13 18:44:00,246 - INFO - [FSM] История: ['UserState:start_section', 'UserState:stop_monitoring_section']
+2025-06-13 18:44:00,692 - INFO - Update id=360321576 is handled. Duration 453 ms by bot id=8070053309
+2025-06-13 18:44:01,646 - INFO - [FSM] Переход в состояние: UserState:stop_article_section
+2025-06-13 18:44:01,646 - INFO - [FSM] История: ['UserState:start_section', 'UserState:stop_monitoring_section', 'UserState:stop_article_section']
+2025-06-13 18:44:01,736 - INFO - Update id=360321577 is handled. Duration 92 ms by bot id=8070053309
+2025-06-13 18:44:02,716 - INFO - [FSM] Переход в состояние: UserState:confirm_stop_section
+2025-06-13 18:44:02,716 - INFO - [FSM] История: ['UserState:start_section', 'UserState:stop_monitoring_section', 'UserState:stop_article_section', 'UserState:confirm_stop_section']
+2025-06-13 18:44:02,846 - INFO - Update id=360321578 is handled. Duration 141 ms by bot id=8070053309
+2025-06-13 18:44:04,012 - INFO - [FSM] Назад к состоянию: UserState:stop_article_section
+2025-06-13 18:44:04,013 - INFO - [FSM] Переход в состояние: UserState:stop_monitoring_section
+2025-06-13 18:44:04,013 - INFO - [FSM] История: ['UserState:start_section', 'UserState:stop_monitoring_section', 'UserState:stop_article_section', 'UserState:stop_monitoring_section']
+2025-06-13 18:44:04,175 - INFO - Update id=360321579 is handled. Duration 171 ms by bot id=8070053309
+2025-06-13 18:44:04,940 - INFO - [FSM] Назад к состоянию: UserState:stop_article_section
+2025-06-13 18:44:04,940 - INFO - [FSM] Переход в состояние: UserState:stop_monitoring_section
+2025-06-13 18:44:04,940 - INFO - [FSM] История: ['UserState:start_section', 'UserState:stop_monitoring_section', 'UserState:stop_article_section', 'UserState:stop_monitoring_section']
+2025-06-13 18:44:05,194 - INFO - Update id=360321580 is handled. Duration 265 ms by bot id=8070053309
+2025-06-13 18:44:07,043 - INFO - [FSM] Переход в состояние: UserState:start_section
+2025-06-13 18:44:07,043 - INFO - [FSM] История: ['UserState:start_section']
+2025-06-13 18:44:07,044 - INFO - Нажата комманда /start
+2025-06-13 18:44:07,044 - INFO - Данные пользователя: ID: 687061691, Username: Nolucker, First Name: Pool
+2025-06-13 18:44:07,366 - INFO - Update id=360321581 is handled. Duration 327 ms by bot id=8070053309
+2025-06-13 18:44:08,002 - INFO - [FSM] Переход в состояние: UserState:help_section
+2025-06-13 18:44:08,002 - INFO - [FSM] История: ['UserState:start_section', 'UserState:help_section']
+2025-06-13 18:44:08,267 - INFO - Update id=360321582 is handled. Duration 266 ms by bot id=8070053309
+2025-06-13 18:44:08,949 - INFO - [FSM] Назад к состоянию: UserState:start_section
+2025-06-13 18:44:09,130 - INFO - [FSM] Переход в состояние: UserState:start_section
+2025-06-13 18:44:09,130 - INFO - [FSM] История: ['UserState:start_section']
+2025-06-13 18:44:09,130 - INFO - Нажата комманда /start
+2025-06-13 18:44:09,130 - INFO - Данные пользователя: ID: 8070053309, Username: nl_wb_parser_bot, First Name: wb_parser_nl
+2025-06-13 18:44:09,542 - INFO - Update id=360321583 is handled. Duration 594 ms by bot id=8070053309
+2025-06-13 18:44:44,249 - INFO - Polling stopped for bot @nl_wb_parser_bot id=8070053309 - 'wb_parser_nl'
+2025-06-13 18:44:44,250 - INFO - Polling stopped
